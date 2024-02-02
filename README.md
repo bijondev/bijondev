@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👯 I’m looking to collaborate on [spotCash](https://play.google.com/store/apps/details?id=net.placid.online.usa&hl=it)
+- 👯 I’m looking to collaborate on [Quize App](https://github.com/bijondev/Flag-Quize)
 
 - 🤝 I’m looking for help with **IOS**
 
